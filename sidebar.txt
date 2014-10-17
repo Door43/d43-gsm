@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gsm:home|Door43 (gsm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gsm|d43-gsm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gsm/archive/master.zip|d43-gsm.zip]]
+
+**Recent Changes**
+{{changes>ns = gsm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gsm|Ethnologue data]]
+
